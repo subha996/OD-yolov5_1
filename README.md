@@ -15,12 +15,17 @@ Used state-of-the-art object detection model YoloV5   trained on [COCO 80 classe
 
 Used [streamlit](https://streamlit.io/) for the webpage
 
-### To run the program on local machine, follow belo steps.
+### To run the program on the local machine, follow below steps.
 ``` 1. Clone the repository ```
+
 ``` 2. Create an virtual env (python>=3.8)```
+
 ``` 3. pip install -r requirements.txt``` 
+
 ``` 4. streamlit run st.py ```
+
 ``` Application should open on your default browser```
+
 
 You can upload an image or video file, the app will understand and will show you a message about your file type and inference will proceed as per your file type. Click on the `infer` button to start the inference. The inference will take time as per your file size and system configuration.
 one sample image and video are provided contained in the `samples_inputs` folder, although it can perform detection from any video or image that is uploaded.
