@@ -37,7 +37,7 @@ After the completion of the inference output will appear along with a download l
 </p>
 
 ### Test Video
-[![Everything Is AWESOME](https://yt-embed.herokuapp.com/embed?v=StTqXEQ2l-Y)]([https://www.youtube.com/watch?v=StTqXEQ2l-Y](https://youtu.be/lLWXCNhjrUA) "Everything Is AWESOME")
+<iframe width="1124" height="632" src="https://www.youtube.com/embed/lLWXCNhjrUA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ### Contributor <img src="https://media3.giphy.com/media/1wrgDc6j07hAlM7Jml/giphy.gif?cid=790b7611e3af35beee6df1266c31edcabc53abfbbb82854c&rid=giphy.gif&ct=g" width="30"> 
